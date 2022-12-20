@@ -2,6 +2,8 @@
 
 ## I’m currently learning JS/ember/React
 
+My dream is to become developer until 2024
+
 <!--
 **dawidzon/dawidzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
