@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## I’m currently learning JS/ember/React
 
-### My dream is to become developer until 2024
+## I’m currently learning JS/ember/React. My dream is to become developer until 2024.
+
 
 ### Contact:
 ### dawid.zon12@gmail.com
