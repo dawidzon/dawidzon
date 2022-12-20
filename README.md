@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I’m currently learning JS/ember/React
 
-My dream is to become developer until 2024
+### My dream is to become developer until 2024
 
-# Contact:
-# dawid.zon12@gmail.com
+### Contact:
+### dawid.zon12@gmail.com
 
 <!--
 **dawidzon/dawidzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
