@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## I’m currently learning JS/ember/React. My dream is to become developer until 2024.
+## I’m currently learning JS/ember/React.
 
 
 ### Contact:
