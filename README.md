@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## I’m currently learning JS/ember/React.
+## I’m currently learning JS/React.
 
 
 ### Contact:
